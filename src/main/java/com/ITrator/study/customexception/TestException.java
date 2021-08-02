@@ -1,4 +1,4 @@
-package com.ITrator.study.practice.customexception;
+package com.ITrator.study.customexception;
 
 public class TestException {
 	public static void main(String...a)

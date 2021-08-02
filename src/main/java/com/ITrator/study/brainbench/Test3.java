@@ -1,4 +1,4 @@
-package com.ITrator.study.practice.brainbench;
+package com.ITrator.study.brainbench;
 
 class Test3 {
 	int i = 0;

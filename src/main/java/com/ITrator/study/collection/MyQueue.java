@@ -1,4 +1,4 @@
-package com.ITrator.study.practice.collection;
+package com.ITrator.study.collection;
 
 import java.util.LinkedList;
 import java.util.PriorityQueue;

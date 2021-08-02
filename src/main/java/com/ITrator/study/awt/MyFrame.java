@@ -1,4 +1,4 @@
-package com.ITrator.study.practice.awt;
+package com.ITrator.study.awt;
 
 //a gui application using inheritance
 import java.awt.*;

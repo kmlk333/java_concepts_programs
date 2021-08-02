@@ -1,4 +1,4 @@
-package com.ITrator.study.practice.hashing;
+package com.ITrator.study.hashing;
 
 public class Student 
 {

@@ -1,4 +1,4 @@
-package com.ITrator.study.practice.model;
+package com.ITrator.study.model;
 
 /**
  * @author kmlk

@@ -1,4 +1,4 @@
-package com.ITrator.study.practice.search;
+package com.ITrator.study.search;
 
 public class InterpolationSearch {
 

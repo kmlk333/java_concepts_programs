@@ -1,8 +1,8 @@
-package com.ITrator.study.practice.comparator;
+package com.ITrator.study.comparator;
 
 import java.util.Comparator;
 
-import com.ITrator.study.practice.model.Student;
+import com.ITrator.study.model.Student;
 
 public class StudentComparator implements Comparator<Student>{
 

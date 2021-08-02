@@ -1,4 +1,4 @@
-package com.ITrator.study.practice.access;
+package com.ITrator.study.access;
 
 public class AccessSpecifier {
 	public static void main(String...a) {

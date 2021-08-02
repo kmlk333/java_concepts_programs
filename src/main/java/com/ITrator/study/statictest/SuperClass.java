@@ -1,4 +1,4 @@
-package com.ITrator.study.practice.statictest;
+package com.ITrator.study.statictest;
 
 public class SuperClass {
 	

@@ -1,4 +1,4 @@
-package com.ITrator.study.practice.test;
+package com.ITrator.study.test;
 
 class ThrowDemo
  {

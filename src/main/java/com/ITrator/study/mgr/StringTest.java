@@ -1,10 +1,10 @@
-package com.ITrator.study.practice.mgr;
+package com.ITrator.study.mgr;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-import com.ITrator.study.practice.model.Student;
+import com.ITrator.study.model.Student;
 
 public class StringTest {
 	public static void main(String...a) {

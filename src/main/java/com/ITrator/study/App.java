@@ -1,4 +1,4 @@
-package com.ITrator.study.practice;
+package com.ITrator.study;
 
 /**
  * Hello world!

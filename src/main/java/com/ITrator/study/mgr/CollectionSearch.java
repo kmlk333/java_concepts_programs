@@ -1,4 +1,4 @@
-package com.ITrator.study.practice.mgr;
+package com.ITrator.study.mgr;
 
 import java.util.Arrays;
 

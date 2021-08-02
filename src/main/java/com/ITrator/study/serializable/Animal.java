@@ -1,4 +1,4 @@
-package com.ITrator.study.practice.serializable;
+package com.ITrator.study.serializable;
 
 public class Animal
 {

@@ -1,4 +1,4 @@
-package com.ITrator.study.practice.serializable;
+package com.ITrator.study.serializable;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

@@ -1,4 +1,4 @@
-package com.ITrator.study.practice.patterns;
+package com.ITrator.study.patterns;
 
 import java.util.Scanner;
 

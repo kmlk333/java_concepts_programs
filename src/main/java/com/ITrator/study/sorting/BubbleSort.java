@@ -1,4 +1,4 @@
-package com.ITrator.study.practice.sorting;
+package com.ITrator.study.sorting;
 
 public class BubbleSort 
 {

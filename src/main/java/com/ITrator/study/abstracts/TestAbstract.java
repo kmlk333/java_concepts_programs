@@ -1,4 +1,4 @@
-package com.ITrator.study.practice.abstracts;
+package com.ITrator.study.abstracts;
 
 public class TestAbstract {
 

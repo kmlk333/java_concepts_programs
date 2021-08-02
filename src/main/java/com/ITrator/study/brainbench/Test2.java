@@ -1,4 +1,4 @@
-package com.ITrator.study.practice.brainbench;
+package com.ITrator.study.brainbench;
 
 public class Test2 {
 	public static void main(String...abc)
